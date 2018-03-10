@@ -1,0 +1,17 @@
+.p-tag {
+    color: peru;
+}
+
+p {
+    color: green;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+p {
+    color: tomato;
+}
+
+p {
+    color: blue;
+}
